@@ -1,5 +1,5 @@
 # include <stdio.h>
-int main() 
+void main()
 { 
 int i, d,res ;   
 printf(" \nEnter the num ") ; 
@@ -10,5 +10,4 @@ for(i=1;i<=7;i++)
 res=d*i;
 printf("%d",res) ; 
 }
-return0;
-]
+}
