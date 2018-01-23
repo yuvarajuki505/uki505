@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<string.h>
-int main(0)
+int main()
 {
     char word[20];
     int k,i;
