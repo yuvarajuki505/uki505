@@ -1,16 +1,16 @@
 #include<stdio.h>
 int main()
 {
-int a;
-scanf("%d",&a);
-if(a%2==0)
+int x;
+scanf("%d",&x);
+if(x%2==0)
 {
-printf("%d",a);
+printf("%d",x);
 }
 else
 {
-a=--a;
-printf("%d",a);
+x=--x;
+printf("%d",x);
 }
 return 0;
 }
