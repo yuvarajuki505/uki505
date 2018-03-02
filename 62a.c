@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main()
+void main()
 {
   char a[50];
   int l,i,count=0;
@@ -21,5 +21,5 @@ int main()
    {
      printf("No");
 }
-return0;
+
 }
