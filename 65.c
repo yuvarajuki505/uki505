@@ -1,6 +1,7 @@
 #include<stdio.h>
-int main()
+void main()
 {
-if(printf("hello world"))
-return 0;
+if(printf("hello world")){
+}
+
 }
